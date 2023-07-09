@@ -15,6 +15,10 @@ h1 {
       display: block;
       margin: 0 auto;
       width: 40%;
+      width:"500";
+      height:"400";
+      border: 16px solid #d8e2dc;
+      
     }
 
     div {
@@ -23,9 +27,16 @@ h1 {
     color: #E5989B;
     font-weight: bold;
     font-size: 2em;
-    a: visited:color:purple;
+    
 }
 
 div a:visited {
 color:#A020F0;
+}
+
+ul {
+  font-family: 'Bacasime Antique', serif;
+  color: #B5838D;
+ 
+  
 }
